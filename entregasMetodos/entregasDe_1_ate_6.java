@@ -1,7 +1,7 @@
 package entregasMetodos;
 
 public class entregasDe_1_ate_6 {
-    /*
+    
     Atividade 1
     public static void main(String[] args) {
         Clientes cliente = new Clientes("Maria", 20, 123123123,"F","maria@maria.com");
@@ -77,5 +77,5 @@ public class entregasDe_1_ate_6 {
         curso1.visualizar();
         curso2.visualizar();
     }
-     */
+     
 }
